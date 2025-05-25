@@ -4,7 +4,7 @@
 
         <div class="box">
             <h3>contact us</h3>
-            <a class="fas fa-phone"><a href="https://wa.me/082177916107">082177916107</a>
+            <a class="fas fa-phone"><a href="https://wa.me/082177916107">083821383078</a>
             <a href="#"><i class="fas fa-envelope"></i>jjtj@gmail.com</a>
             <a href="#"><i class="fas fa-map-marker-alt"></i> Teluk Betung Timur - Bandar Lampung </a>
         </div>
